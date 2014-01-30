@@ -26,7 +26,10 @@ int remainder (int x, int y)
 }
 
 int main() {
-	
+	//ask for 5 inputs
+	// scan 5 inputs
+	//if statements put largest and smallest into max and min
+	// print f .
 	
 
 }
