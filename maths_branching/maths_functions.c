@@ -9,9 +9,9 @@ int subtract (int x, int y)
 {
     return x - y;
 }
-//This is the line causing issue in the master branch
+//This is the line causing issue in the conflict branch
 int multiply (int x, int y)
-{
+{//This is the line causing issue in the master branch
     return x * y;
 }
 
